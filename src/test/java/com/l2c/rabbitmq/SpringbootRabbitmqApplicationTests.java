@@ -1,4 +1,4 @@
-package com.l2c.springbootrabbitmq;
+package com.l2c.rabbitmq;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;

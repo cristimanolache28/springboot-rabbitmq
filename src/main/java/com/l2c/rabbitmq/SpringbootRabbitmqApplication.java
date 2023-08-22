@@ -1,4 +1,4 @@
-package com.l2c.springbootrabbitmq;
+package com.l2c.rabbitmq;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
