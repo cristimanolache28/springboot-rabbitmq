@@ -35,5 +35,5 @@ docker run --rm -it -p 15672:15672 -p 5672:5672 rabbitmq:3.10.25-management
 5672:5672 - port used for RabbitMQ client connections
 
 RabbitMQ default authentification:
-Username: guest
+<br>Username: guest</br>
 Password: guest
